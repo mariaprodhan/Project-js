@@ -1,0 +1,213 @@
+@media(max-width:575px){
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 transparent !important;
+      }
+    .navbar-toggler i{
+        color: #fff;
+        font-size: 20px;
+      }
+    .navbar-nav{
+        flex-direction: row;
+      }
+    .navbar-toggler{
+        border: 1px solid #fff;
+      }  
+      .ban-text h2{
+        font-size: 20px;
+      }
+      .ban-text > h1:nth-child(2) {
+        font-size: 35px;
+      }
+      .ban-text a{
+        font-size: 10px;
+        padding: 5px 10px;
+      }
+      .about-text{
+        margin-top: 20px;
+      }
+      .about-main > p:nth-child(2) {
+        font-size: 12px;
+      }
+      .about-main > p:nth-child(3) {
+        font-size: 12px;
+      }
+      .team-text h2{
+        font-size: 12px !important;
+      }
+      .team-text h6{
+        font-size: 10px !important;
+      }
+      .team-text p{
+        font-size: 8px !important;
+      }
+      .team-ovarly ul{
+        left: 55% !important;
+        top: 20% !important;
+    }
+    .testi-pera p{
+        font-size: 10px;
+    }
+    .member-top h5{
+        font-size: 12px;
+    }
+    .member-banner h1{
+        font-size: 30px !important;
+    }
+    .member-text  p{
+        padding: 2px 0 !important;
+    }
+    .good-col{
+        padding-left: 50px;
+        padding-bottom: 40px;
+    }
+    .good-col-r{
+        padding-right: 50px;
+    }
+    .pathner-col{
+        padding: 0 100px;
+    }
+    .day-time h6{
+        font-size: 10px !important;
+    }
+    .twitter-text p{
+        font-size: 10px !important;
+    }
+    .footer-imag img{
+        margin: 0 5px !important;
+    }
+    .contact-main{
+        margin-left: 10px;
+    }
+    .contact-buttom i{
+        padding: 0 2px !important;
+        font-size: 10px !important;
+    }
+    .buttom-icon i{
+        width: 20px !important;
+        height: 20px !important;
+        border: 1px solid #fff !important;
+        text-align: center !important;
+        align-items: center !important;
+        justify-content: center !important;
+        line-height: 20px !important;
+        padding-left: 3px !important;
+        margin: 0 3px !important;
+        margin-bottom: 10px !important;
+    }
+    .buttom-icon i:hover{
+        background-color: #e23e38 !important;
+        border: 1px solid transparent !important;
+    
+    }      
+}
+@media(min-width:576px) and  (max-width:767px){
+     .menu-bg .navbar-toggler i{
+        color: #fff;
+        font-size: 20px;
+      }
+      .navbar-toggler:focus {
+        box-shadow: 0 0 0 transparent !important;
+      }
+      .ban-text h2{
+        font-size: 25px;
+      }
+      .ban-text > h1:nth-child(2) {
+        font-size: 40px;
+      }
+      .ban-text a{
+        font-size: 15px;
+        padding: 5px 10px;
+      }
+      .about-text{
+        margin-top: 20px;
+      }
+      .about-main > p:nth-child(2) {
+        font-size: 14px;
+      }
+      .about-main > p:nth-child(3) {
+        font-size: 14px;
+      }
+      .team-text h2{
+        font-size: 15px !important;
+      }
+      .team-text h6{
+        font-size: 13px !important;
+      }
+      .team-text p{
+        font-size: 10px !important;
+      }
+      .team-ovarly ul{
+        left: 60% !important;
+        top: 20% !important;
+    }
+    .test-text{
+       margin-left: 150px;
+    }
+    .member-top h5{
+        font-size: 12px;
+    }
+    .member-banner h1{
+        font-size: 30px !important;
+    }
+    .member-text  p{
+        padding: 5px 0 !important;
+        font-size: 13px;
+    }
+    .member-buttom{
+        font-size: 14px !important;
+    }
+    .pathner-col{
+        padding: 0 45px;
+    }
+    .pathner-col-sm{
+        padding: 0 45px;
+    }
+    .buttom-icon i{
+        margin-bottom: 10px !important;
+    }
+}
+@media(min-width:768px) and (max-width:991px){
+    .navbar-toggler:hover{
+        border: 2px solid #fff;
+      }
+      .navbar-toggler i:hover{
+        color: #fff;
+        font-size: 20px;
+      }
+      .navbar-nav{
+        flex-direction: row;
+      }
+      .about-text{
+        margin-top: 30px;
+      }
+      .pathner-col{
+        padding: 0 45px;
+    }
+    .pathner-col-sm{
+        padding: 0 45px;
+    }
+      .footer-photo{
+        margin-bottom: 20px !important;
+      }
+    
+}
+@media(min-width:992px) and (max-width:1199px){
+  .about-main p{
+    font-size: 11px !important;
+  }
+  .day-time h6{
+    font-size: 12px !important;
+}
+.contact-icon p{
+    font-size: 11px !important;
+}
+.twitter-main{
+    padding-bottom: 5px !important;
+}
+}
+@media(min-width:1200px) and (max-width:1399){
+
+}
+@media(min-width:1400px){
+
+}
